@@ -1,0 +1,39 @@
+h1 {
+    color: magenta;
+    text-align: center;
+}
+
+/** {
+    border: solid;
+}*/
+
+h2,p {
+    text-align: center;
+}
+
+.header{
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+
+
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+    display:flex;
+    justify-content :right;
+}
+
+body{
+    background-color: red;
+}
